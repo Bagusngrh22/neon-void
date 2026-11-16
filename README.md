@@ -1,8 +1,8 @@
 # NEON VOID
 
-[![Best Game](badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
-[![Rank](badge/best-game-01/Bagusngrh22/neon-void/rank.svg)](https://make.fun/bounty/best-game-01)
-[![Reward](badge/best-game-01/Bagusngrh22/neon-void/reward.svg)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Bagusngrh22/neon-void/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Bagusngrh22/neon-void/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 **NEON VOID** is an original neon arcade space shooter, built for make.fun's
 ["Make the best game" bounty](https://make.fun/bounty/best-game-01) ($1,000 in USDC).
@@ -61,4 +61,4 @@ with no build step and no dependencies.
 MIT — see [LICENSE](LICENSE).
 
 ---
-Entered on [make.fun](https://make.fun/bounty/best-game-01) — referral: `w43ybwk1`
+<sub>Entered on [make.fun](https://make.fun/?ref=w43ybwk1&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
